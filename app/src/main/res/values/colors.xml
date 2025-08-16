@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Elegant Color Palette -->
+    <color name="elegant_black">#FF000000</color>
+    <color name="elegant_white">#FFFFFFFF</color>
+    <color name="elegant_gray">#FFCCCCCC</color>
+    <color name="elegant_dark_gray">#FF333333</color>
+    <color name="elegant_accent">#FF007AFF</color>
+    <color name="elegant_gold">#FFFFD700</color>
+    
+    <!-- Material Design Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Extended Elegant Palette -->
+    <color name="elegant_surface">#FF1A1A1A</color>
+    <color name="elegant_on_surface">#FFFFFFFF</color>
+    <color name="elegant_surface_variant">#FF2A2A2A</color>
+    <color name="elegant_on_surface_variant">#FFCCCCCC</color>
+    <color name="elegant_outline">#FF444444</color>
+    <color name="elegant_error">#FFFF3B30</color>
+    <color name="elegant_error_container">#FF5C1A1A</color>
+    <color name="elegant_on_error_container">#FFFFFFFF</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF1A1A1A</color>
+    <color name="gradient_end">#FF000000</color>
+</resources>
