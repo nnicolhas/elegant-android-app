@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ELEGANT</string>
+    <string name="splash_title">ELEGANT</string>
+    <string name="splash_subtitle">Professional Solutions</string>
+    <string name="welcome_title">Bienvenido a ELEGANT</string>
+    <string name="welcome_description">Una aplicación profesional diseñada para la excelencia y la elegancia en cada detalle.</string>
+    
+    <!-- Feature Titles -->
+    <string name="feature_design_title">Diseño Moderno</string>
+    <string name="feature_design_desc">Interfaz elegante y minimalista siguiendo las últimas tendencias de diseño</string>
+    
+    <string name="feature_performance_title">Rendimiento Optimizado</string>
+    <string name="feature_performance_desc">Arquitectura moderna con Jetpack Compose para máximo rendimiento</string>
+    
+    <string name="feature_experience_title">Experiencia Fluida</string>
+    <string name="feature_experience_desc">Animaciones suaves y transiciones elegantes en cada interacción</string>
+    
+    <string name="feature_security_title">Seguridad Avanzada</string>
+    <string name="feature_security_desc">Implementación de las mejores prácticas de seguridad móvil</string>
+    
+    <string name="feature_customization_title">Personalización</string>
+    <string name="feature_customization_desc">Opciones avanzadas de personalización para cada usuario</string>
+    
+    <string name="feature_support_title">Soporte 24/7</string>
+    <string name="feature_support_desc">Atención al cliente profesional disponible en todo momento</string>
+</resources>
