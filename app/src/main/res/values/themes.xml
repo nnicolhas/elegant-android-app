@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ElegantApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/elegant_black</item>
+        <item name="colorOnPrimary">@color/elegant_white</item>
+        <item name="colorPrimaryContainer">@color/elegant_dark_gray</item>
+        <item name="colorOnPrimaryContainer">@color/elegant_white</item>
+        <item name="colorSecondary">@color/elegant_gray</item>
+        <item name="colorOnSecondary">@color/elegant_black</item>
+        <item name="colorSecondaryContainer">@color/elegant_gray</item>
+        <item name="colorOnSecondaryContainer">@color/elegant_black</item>
+        <item name="colorTertiary">@color/elegant_accent</item>
+        <item name="colorOnTertiary">@color/elegant_white</item>
+        <item name="colorError">@color/elegant_error</item>
+        <item name="colorOnError">@color/elegant_white</item>
+        <item name="colorErrorContainer">@color/elegant_error_container</item>
+        <item name="colorOnErrorContainer">@color/elegant_on_error_container</item>
+        <item name="colorOutline">@color/elegant_outline</item>
+        <item name="colorSurface">@color/elegant_surface</item>
+        <item name="colorOnSurface">@color/elegant_on_surface</item>
+        <item name="colorSurfaceVariant">@color/elegant_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/elegant_on_surface_variant</item>
+        <item name="android:statusBarColor">@color/elegant_black</item>
+        <item name="android:navigationBarColor">@color/elegant_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <style name="Theme.ElegantApp" parent="Base.Theme.ElegantApp" />
+    
+    <!-- Splash Screen Theme -->
+    <style name="Theme.ElegantApp.Splash" parent="Theme.ElegantApp">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/elegant_black</item>
+        <item name="android:navigationBarColor">@color/elegant_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>
